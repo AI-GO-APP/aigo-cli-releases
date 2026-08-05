@@ -1,0 +1,82 @@
+AI GO CLI — Binary Distribution License
+========================================
+
+Copyright (c) 2026 URFIT / AI GO. All rights reserved.
+
+This license applies **only** to the prebuilt `aigo` executable (and any
+accompanying install script, container image, or release archive that
+distributes that executable). It does **not** grant any rights to the
+source code of the AI GO CLI.
+
+1. Grant of rights (binary only)
+--------------------------------
+Subject to this license, you may:
+
+  (a) download, install, and run the `aigo` binary for your own use
+      (personal or internal business use) in connection with the AI GO
+      platform;
+  (b) make a reasonable number of copies for backup or deployment within
+      your organization.
+
+2. Restrictions
+---------------
+You may **not**, without prior written permission from the copyright
+holder:
+
+  (a) reverse engineer, decompile, disassemble, or otherwise attempt to
+      derive the source code of the binary, except to the extent such
+      restriction is prohibited by applicable law;
+  (b) modify, adapt, or create derivative works of the binary;
+  (c) redistribute, sublicense, rent, lease, sell, or otherwise transfer
+      the binary or any modified form of it to third parties (except as
+      required for internal deployment under §1(b));
+  (d) remove or alter any proprietary notices on the binary or in its
+      documentation;
+  (e) use the binary to develop a competing CLI or service that
+      substantially replicates AI GO platform integration, except as
+      allowed by separate written agreement;
+  (f) claim ownership of the binary or present it as open source.
+
+3. No source code license
+-------------------------
+The source code of the AI GO CLI is **proprietary and confidential**.
+Publication of prebuilt binaries, install scripts, or container images
+does **not** open-source the project, does **not** constitute a source
+code license, and does **not** create any obligation to provide source
+code (including under any “public repository”, CDN, or package registry
+hosting).
+
+4. Third-party components
+-------------------------
+The binary may incorporate third-party open-source libraries. Those
+components remain subject to their own licenses. Nothing in this license
+limits your rights under those third-party licenses for the portions of
+code they cover. Notices for bundled dependencies may be provided
+separately in release materials when applicable.
+
+5. Disclaimer of warranty
+-------------------------
+THE BINARY IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU USE THE
+BINARY AT YOUR OWN RISK.
+
+6. Limitation of liability
+--------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR BUSINESS, ARISING OUT OF OR
+RELATED TO THE USE OF OR INABILITY TO USE THE BINARY, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Termination
+--------------
+This license terminates automatically if you breach any of its terms.
+Upon termination you must cease use of the binary and destroy all copies
+in your possession, except copies you are required by law to retain.
+
+8. Contact
+----------
+For redistribution rights, OEM / partner licenses, or source-code access:
+contact the AI GO / URFIT team via your existing commercial or support
+channel.
