@@ -21,7 +21,7 @@ curl -fsSL https://raw.githubusercontent.com/AI-GO-APP/aigo-cli-releases/main/in
 Pin a version:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/AI-GO-APP/aigo-cli-releases/main/install.sh | bash -s 0.2.2
+curl -fsSL https://raw.githubusercontent.com/AI-GO-APP/aigo-cli-releases/main/install.sh | bash -s 0.2.3
 ```
 
 Then:
