@@ -4,7 +4,7 @@
 #
 # Usage (public channel — no GitHub auth required):
 #   curl -fsSL https://raw.githubusercontent.com/AI-GO-APP/aigo-cli-releases/main/install.sh | bash
-#   curl -fsSL https://raw.githubusercontent.com/AI-GO-APP/aigo-cli-releases/main/install.sh | bash -s 0.2.3
+#   curl -fsSL https://raw.githubusercontent.com/AI-GO-APP/aigo-cli-releases/main/install.sh | bash -s 0.3.0
 #
 # Env:
 #   AIGO_DIST_REPO   GitHub repo for install assets (default: AI-GO-APP/aigo-cli-releases)
